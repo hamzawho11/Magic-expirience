@@ -1,3 +1,4 @@
+///dart
 // click on "alt+shift=+F"
 // DALA LI KAT7AKAM LIYA F KOD DYALI
 void main (){
@@ -29,3 +30,4 @@ print (lamp);
   print (appVersion);
   print ('Donne✅');
 }
+///
