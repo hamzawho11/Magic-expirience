@@ -1,4 +1,5 @@
-///dart
+# lesson 1
+``` dart
 // click on "alt+shift=+F"
 // DALA LI KAT7AKAM LIYA F KOD DYALI
 void main (){
@@ -70,4 +71,4 @@ void main(){
 print ("${lampIsOn || lampIsOff}"); // 7a9a9 liya ay chart mnhom ( or)
   
   }
-///
+```
